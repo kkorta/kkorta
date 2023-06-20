@@ -13,7 +13,6 @@
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
 ![image](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
