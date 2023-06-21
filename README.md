@@ -16,7 +16,7 @@
 ![image](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
 ![image](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
-![image](https://img.shields.io/badge/Java-F5F5F5?style=for-the-badge&logo=Java&logoColor=red)
+![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkorta&layout=compact&theme=dark)
